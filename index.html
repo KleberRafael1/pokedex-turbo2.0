@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokédex Turbo 2.0</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="pokedex" id="pokedex">
+        <h1>Pokédex Turbo 2.0</h1>
+        <div class="search">
+            <input type="text" id="pokemon-input" placeholder="Digite o nome ou ID">
+            <button id="search-btn">Buscar</button>
+        </div>
+        <div class="pokemon-display" id="pokemon-display">
+            <img id="pokemon-image" src="" alt="Imagem do Pokémon">
+            <h2 id="pokemon-name"></h2>
+            <p id="pokemon-id"></p>
+        </div>
+        <div class="navigation">
+            <button id="prev-btn">Anterior</button>
+            <button id="next-btn">Próximo</button>
+        </div>
+    </div>
+    <div class="footer">
+    <p>Pokédex Turbo 2.0 &copy; 2025 | Kleber Rafael | Total de Pokémon carregados: <span id="total-pokemon">1010</span></p>
+    </div>    
+    <script src="script.js"></script>
+</body>
+</html>
