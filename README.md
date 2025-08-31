@@ -1,6 +1,6 @@
 # Pokédex Turbo 2.0
 
-![Pokedex Banner](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/assets/pokedex-banner.png)
+![Captura da Pokédex](assets/pokedex.png)
 
 A **Pokédex Turbo 2.0** é uma aplicação web interativa que permite explorar, buscar e visualizar informações detalhadas de todos os Pokémon disponíveis na **PokéAPI**. Com um design inspirado na Pokédex original, ela proporciona uma experiência imersiva e divertida para fãs de Pokémon.
 
